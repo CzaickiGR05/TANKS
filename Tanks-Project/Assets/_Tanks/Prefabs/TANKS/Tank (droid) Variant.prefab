@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2943657936658273295, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2943657936658273295, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_AnchorMax.y
@@ -94,11 +94,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5445554711157433297, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5445554711157433297, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7274497198635545471, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_AnchorMax.y
@@ -107,6 +107,10 @@ PrefabInstance:
     - target: {fileID: 7837991903348515630, guid: 205235d0679007c458b062a375f84a01, type: 3}
       propertyPath: m_Name
       value: Tank (droid) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7837991903348515630, guid: 205235d0679007c458b062a375f84a01, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
