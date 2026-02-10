@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 8bb670eae8a84ad4f83ba071ac05b90d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -949,7 +949,7 @@ PlayerSettings:
   cloudProjectId: b77077c3-5fdc-424a-82a9-3ee1aef7e0fe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Uploading tanks
+  projectName: Tanks-Project
   organizationId: unity_61f52cb940cf6b2e8316
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

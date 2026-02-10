@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 7fb6c1c790fa04865b379a6e8ccd7e9c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/Tank_Actions.inputactions
+  uploadId: 779802
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -12,10 +19,3 @@ ScriptedImporter:
   wrapperCodePath: 
   wrapperClassName: 
   wrapperCodeNamespace: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 46209
-  packageName: Tanks! | Complete Project
-  packageVersion: 3.0
-  assetPath: Assets/_Tanks/Settings/Tank_Actions.inputactions
-  uploadId: 779802
